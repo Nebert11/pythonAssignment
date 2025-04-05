@@ -1,0 +1,3 @@
+Modified: This is a newly created file.
+Modified: It contains some sample text.
+Modified: This is the third line of the file.
