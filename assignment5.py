@@ -1,4 +1,4 @@
-#Designing a class to represent a smartphone
+#First class  called smartphone
 class smartphone:
     brand = "Huawei"
 
@@ -31,7 +31,7 @@ class flash(superhero):
 flash = superhero("Hunter", "Speed")
 print("Name:",flash.name, "Powers:",flash.powers)
 
-#Polymorphism challenge
+#Polymorphism in action
 class vehicle:
     def move(self):
         return "Driving"
